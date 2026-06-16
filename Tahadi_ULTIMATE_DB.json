@@ -26573,5 +26573,6349 @@
             "a": "Ernst-Happel-Stadion"
         }
     ],
-    "wc_2026_players": []
+    "wc_2026_players": [],
+    "retired_players": [
+        {
+            "name": "Isco",
+            "nationality": "Spain",
+            "club": "Real Madrid",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Díaz",
+            "nationality": "Dominican Republic",
+            "club": "Real Madrid",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Tchouaméni",
+            "nationality": "France",
+            "club": "Real Madrid",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "E. Camavinga",
+            "nationality": "France",
+            "club": "Real Madrid",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "T. Kubo",
+            "nationality": "Japan",
+            "club": "Real Madrid",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Juanmi Latasa",
+            "nationality": "Spain",
+            "club": "Real Madrid",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Miguel Gutiérrez",
+            "nationality": "Spain",
+            "club": "Real Madrid",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Sergio Arribas",
+            "nationality": "Spain",
+            "club": "Real Madrid",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Carlos Dotor",
+            "nationality": "Spain",
+            "club": "Real Madrid",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Luis López",
+            "nationality": "Spain",
+            "club": "Real Madrid",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "Sergio Santos",
+            "nationality": "Spain",
+            "club": "Real Madrid",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Toni Fuidias",
+            "nationality": "Spain",
+            "club": "Real Madrid",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "Antonio Blanco",
+            "nationality": "Spain",
+            "club": "Real Madrid",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Mario de Luis",
+            "nationality": "Spain",
+            "club": "Real Madrid",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "Lucas Cañizares",
+            "nationality": "Spain",
+            "club": "Real Madrid",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "Peter",
+            "nationality": "Spain",
+            "club": "Real Madrid",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Diego Piñeiro",
+            "nationality": "Spain",
+            "club": "Real Madrid",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "Marvel",
+            "nationality": "Spain",
+            "club": "Real Madrid",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Á. Rodríguez",
+            "nationality": "Uruguay",
+            "club": "Real Madrid",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Mario Martín",
+            "nationality": "Spain",
+            "club": "Real Madrid",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Éder Militão",
+            "nationality": "Brazil",
+            "club": "Real Madrid",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "D. Alaba",
+            "nationality": "Austria",
+            "club": "Real Madrid",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "F. Mendy",
+            "nationality": "France",
+            "club": "Real Madrid",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Dani Carvajal",
+            "nationality": "Spain",
+            "club": "Real Madrid",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Nacho",
+            "nationality": "Spain",
+            "club": "Real Madrid",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Odriozola",
+            "nationality": "Spain",
+            "club": "Real Madrid",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Marcelo",
+            "nationality": "Brazil",
+            "club": "Real Madrid",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "T. Kroos",
+            "nationality": "Germany",
+            "club": "Real Madrid",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "F. Valverde",
+            "nationality": "Uruguay",
+            "club": "Real Madrid",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Lucas Vázquez",
+            "nationality": "Spain",
+            "club": "Real Madrid",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "K. Benzema",
+            "nationality": "France",
+            "club": "Real Madrid",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Vinícius Júnior",
+            "nationality": "Brazil",
+            "club": "Real Madrid",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "L. Jović",
+            "nationality": "Serbia",
+            "club": "Real Madrid",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Rodrygo",
+            "nationality": "Brazil",
+            "club": "Real Madrid",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Lunin",
+            "nationality": "Ukraine",
+            "club": "Real Madrid",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "Mario Gila",
+            "nationality": "Spain",
+            "club": "Real Madrid",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Rafa Marín",
+            "nationality": "Spain",
+            "club": "Real Madrid",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Vinícius Tobias",
+            "nationality": "Brazil",
+            "club": "Real Madrid",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "N. Paz",
+            "nationality": "Argentina",
+            "club": "Real Madrid",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Fran González",
+            "nationality": "Spain",
+            "club": "Real Madrid",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "T. Courtois",
+            "nationality": "Belgium",
+            "club": "Real Madrid",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "Vallejo",
+            "nationality": "Spain",
+            "club": "Real Madrid",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Marco Asensio",
+            "nationality": "Spain",
+            "club": "Real Madrid",
+            "position": "Forward",
+            "source": "API 2022"
+        },
+        {
+            "name": "Casemiro",
+            "nationality": "Brazil",
+            "club": "Real Madrid",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Dani Ceballos",
+            "nationality": "Spain",
+            "club": "Real Madrid",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "L. Modrić",
+            "nationality": "Croatia",
+            "club": "Real Madrid",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "G. Bale",
+            "nationality": "Wales",
+            "club": "Real Madrid",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Rüdiger",
+            "nationality": "Germany",
+            "club": "Real Madrid",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "E. Hazard",
+            "nationality": "Belgium",
+            "club": "Real Madrid",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Borja Mayoral",
+            "nationality": "Spain",
+            "club": "Real Madrid",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Iñaki Peña",
+            "nationality": "Spain",
+            "club": "Barcelona",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "Guillem Jaime",
+            "nationality": "Spain",
+            "club": "Barcelona",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Álex Collado",
+            "nationality": "Spain",
+            "club": "Barcelona",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Depay",
+            "nationality": "Netherlands",
+            "club": "Barcelona",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "R. Manaj",
+            "nationality": "Albania",
+            "club": "Barcelona",
+            "position": "Forward",
+            "source": "API 2022"
+        },
+        {
+            "name": "Ferran Jutglà",
+            "nationality": "Spain",
+            "club": "Barcelona",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Lucas de Vega",
+            "nationality": "Brazil",
+            "club": "Barcelona",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Álvaro Sanz",
+            "nationality": "Spain",
+            "club": "Barcelona",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Arnau Tenas",
+            "nationality": "Spain",
+            "club": "Barcelona",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "Mika Màrmol",
+            "nationality": "Spain",
+            "club": "Barcelona",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Óscar Mingueza",
+            "nationality": "Spain",
+            "club": "Barcelona",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Ezzalzouli",
+            "nationality": "Morocco",
+            "club": "Barcelona",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Antonio Aranda",
+            "nationality": "Spain",
+            "club": "Barcelona",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Pablo Torre",
+            "nationality": "Spain",
+            "club": "Barcelona",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Arnau Casas",
+            "nationality": "Spain",
+            "club": "Barcelona",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Aleix Garrido",
+            "nationality": "Spain",
+            "club": "Barcelona",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Ander Astralaga",
+            "nationality": "Spain",
+            "club": "Barcelona",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "Dani Rodríguez",
+            "nationality": "Spain",
+            "club": "Barcelona",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Héctor Fort",
+            "nationality": "Spain",
+            "club": "Barcelona",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Pau Prim",
+            "nationality": "Spain",
+            "club": "Barcelona",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Jordi Alba",
+            "nationality": "Spain",
+            "club": "Barcelona",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Sergi Roberto",
+            "nationality": "Spain",
+            "club": "Barcelona",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Sergio Busquets",
+            "nationality": "Spain",
+            "club": "Barcelona",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Riqui Puig",
+            "nationality": "Spain",
+            "club": "Barcelona",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "F. de Jong",
+            "nationality": "Netherlands",
+            "club": "Barcelona",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "J. Koundé",
+            "nationality": "France",
+            "club": "Barcelona",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "R. Araújo",
+            "nationality": "Uruguay",
+            "club": "Barcelona",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Y. Demir",
+            "nationality": "Austria",
+            "club": "Barcelona",
+            "position": "Forward",
+            "source": "API 2022"
+        },
+        {
+            "name": "Pedri",
+            "nationality": "Spain",
+            "club": "Barcelona",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Alejandro Balde",
+            "nationality": "Spain",
+            "club": "Barcelona",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Jandro Orellana",
+            "nationality": "Spain",
+            "club": "Barcelona",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Arnau Comas",
+            "nationality": "Spain",
+            "club": "Barcelona",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "L. Carević",
+            "nationality": "Montenegro",
+            "club": "Barcelona",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "Joan García",
+            "nationality": "Spain",
+            "club": "Barcelona",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "Ilias Akhomach",
+            "nationality": "Morocco",
+            "club": "Barcelona",
+            "position": "Forward",
+            "source": "API 2022"
+        },
+        {
+            "name": "Gavi",
+            "nationality": "Spain",
+            "club": "Barcelona",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Marc Casadó",
+            "nationality": "Spain",
+            "club": "Barcelona",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Álex Valle",
+            "nationality": "Spain",
+            "club": "Barcelona",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Unai Hernández",
+            "nationality": "Spain",
+            "club": "Barcelona",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Lamine Yamal",
+            "nationality": "Spain",
+            "club": "Barcelona",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. ter Stegen",
+            "nationality": "Germany",
+            "club": "Barcelona",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "C. Lenglet",
+            "nationality": "France",
+            "club": "Barcelona",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Piqué",
+            "nationality": "Spain",
+            "club": "Barcelona",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "S. Umtiti",
+            "nationality": "France",
+            "club": "Barcelona",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "O. Dembélé",
+            "nationality": "France",
+            "club": "Barcelona",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Dani Alves",
+            "nationality": "Brazil",
+            "club": "Barcelona",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "R. Lewandowski",
+            "nationality": "Poland",
+            "club": "Barcelona",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Eric García",
+            "nationality": "Spain",
+            "club": "Barcelona",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Ferran Torres",
+            "nationality": "Spain",
+            "club": "Barcelona",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Héctor Bellerín",
+            "nationality": "Spain",
+            "club": "Barcelona",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "F. Kessié",
+            "nationality": "Côte d'Ivoire",
+            "club": "Barcelona",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Braithwaite",
+            "nationality": "Denmark",
+            "club": "Barcelona",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Adama Traoré",
+            "nationality": "Spain",
+            "club": "Barcelona",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "S. Dest",
+            "nationality": "USA",
+            "club": "Barcelona",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Ansu Fati",
+            "nationality": "Spain",
+            "club": "Barcelona",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Nico González",
+            "nationality": "Spain",
+            "club": "Barcelona",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "C. Riad",
+            "nationality": "Morocco",
+            "club": "Barcelona",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Fabio Blanco",
+            "nationality": "Spain",
+            "club": "Barcelona",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Estanis",
+            "nationality": "Spain",
+            "club": "Barcelona",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Marc Guiu",
+            "nationality": "Spain",
+            "club": "Barcelona",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Lee Grant",
+            "nationality": "England",
+            "club": "Manchester United",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "V. Lindelöf",
+            "nationality": "Sweden",
+            "club": "Manchester United",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "J. Garner",
+            "nationality": "England",
+            "club": "Manchester United",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "T. Heaton",
+            "nationality": "England",
+            "club": "Manchester United",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "D. Henderson",
+            "nationality": "England",
+            "club": "Manchester United",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "T. Malacia",
+            "nationality": "Netherlands",
+            "club": "Manchester United",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "D. Levitt",
+            "nationality": "Wales",
+            "club": "Manchester United",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "E. Laird",
+            "nationality": "England",
+            "club": "Manchester United",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "D. Bernard",
+            "nationality": "Jamaica",
+            "club": "Manchester United",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "D. Bughail-Mellor",
+            "nationality": "England",
+            "club": "Manchester United",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "E. Galbraith",
+            "nationality": "Northern Ireland",
+            "club": "Manchester United",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "R. Devine",
+            "nationality": "England",
+            "club": "Manchester United",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Elanga",
+            "nationality": "Sweden",
+            "club": "Manchester United",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Charlie Gerard Richard Wellens",
+            "nationality": "England",
+            "club": "Manchester United",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Noam Fritz Emeran",
+            "nationality": "France",
+            "club": "Manchester United",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Garnacho",
+            "nationality": "Argentina",
+            "club": "Manchester United",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "B. Hardley",
+            "nationality": "Netherlands",
+            "club": "Manchester United",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "S. Murray",
+            "nationality": "England",
+            "club": "Manchester United",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Daniel Gore",
+            "nationality": "England",
+            "club": "Manchester United",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "T. Fredricson",
+            "nationality": "England",
+            "club": "Manchester United",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "J. Sancho",
+            "nationality": "England",
+            "club": "Manchester United",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Alex Telles",
+            "nationality": "Brazil",
+            "club": "Manchester United",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "David de Gea",
+            "nationality": "Spain",
+            "club": "Manchester United",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "Diogo Dalot",
+            "nationality": "Portugal",
+            "club": "Manchester United",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "P. Jones",
+            "nationality": "England",
+            "club": "Manchester United",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "L. Shaw",
+            "nationality": "England",
+            "club": "Manchester United",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "J. Lingard",
+            "nationality": "England",
+            "club": "Manchester United",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Matheus Cunha",
+            "nationality": "Brazil",
+            "club": "Manchester United",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Bruno Fernandes",
+            "nationality": "Portugal",
+            "club": "Manchester United",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Lisandro Martínez",
+            "nationality": "Argentina",
+            "club": "Manchester United",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "H. Maguire",
+            "nationality": "England",
+            "club": "Manchester United",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Antony",
+            "nationality": "Brazil",
+            "club": "Manchester United",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Wan-Bissaka",
+            "nationality": "England",
+            "club": "Manchester United",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Dúbravka",
+            "nationality": "Slovakia",
+            "club": "Manchester United",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Tuanzebe",
+            "nationality": "England",
+            "club": "Manchester United",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "W. Fish",
+            "nationality": "England",
+            "club": "Manchester United",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Diallo",
+            "nationality": "Côte d'Ivoire",
+            "club": "Manchester United",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "H. Mejbri",
+            "nationality": "Tunisia",
+            "club": "Manchester United",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "K. Mainoo",
+            "nationality": "England",
+            "club": "Manchester United",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "D. van de Beek",
+            "nationality": "Netherlands",
+            "club": "Manchester United",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "R. Varane",
+            "nationality": "France",
+            "club": "Manchester United",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "E. Bailly",
+            "nationality": "Côte d'Ivoire",
+            "club": "Manchester United",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Greenwood",
+            "nationality": "England",
+            "club": "Manchester United",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Mata",
+            "nationality": "Spain",
+            "club": "Manchester United",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "T. Chong",
+            "nationality": "Netherlands",
+            "club": "Manchester United",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Martial",
+            "nationality": "France",
+            "club": "Manchester United",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Rashford",
+            "nationality": "England",
+            "club": "Manchester United",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "N. Bishop",
+            "nationality": "England",
+            "club": "Manchester United",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "F. Pellistri",
+            "nationality": "Uruguay",
+            "club": "Manchester United",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "B. Williams",
+            "nationality": "England",
+            "club": "Manchester United",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "T. Mengi",
+            "nationality": "England",
+            "club": "Manchester United",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "S. Shoretire",
+            "nationality": "England",
+            "club": "Manchester United",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "J. Hugill",
+            "nationality": "England",
+            "club": "Manchester United",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "C. Savage",
+            "nationality": "Wales",
+            "club": "Manchester United",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "R. Vítek",
+            "nationality": "Czechia",
+            "club": "Manchester United",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "R. Bennett",
+            "nationality": "England",
+            "club": "Manchester United",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Marc Jurado",
+            "nationality": "Spain",
+            "club": "Manchester United",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "C. McNeill",
+            "nationality": "England",
+            "club": "Manchester United",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Oyedele",
+            "nationality": "Poland",
+            "club": "Manchester United",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Alisson Becker",
+            "nationality": "Brazil",
+            "club": "Liverpool",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Robertson",
+            "nationality": "Scotland",
+            "club": "Liverpool",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "K. Tsimikas",
+            "nationality": "Greece",
+            "club": "Liverpool",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "C. Ramsay",
+            "nationality": "Scotland",
+            "club": "Liverpool",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Liam John Hughes",
+            "nationality": "Northern Ireland",
+            "club": "Liverpool",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Lewis",
+            "nationality": "England",
+            "club": "Liverpool",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Billy Dawson Koumetio",
+            "nationality": "France",
+            "club": "Liverpool",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Thomas Daniel Hill",
+            "nationality": "England",
+            "club": "Liverpool",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "James Barry Norris",
+            "nationality": "England",
+            "club": "Liverpool",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "R. Williams",
+            "nationality": "England",
+            "club": "Liverpool",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "C. Bradley",
+            "nationality": "Northern Ireland",
+            "club": "Liverpool",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "James Balagizi",
+            "nationality": "England",
+            "club": "Liverpool",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "H. Blair",
+            "nationality": "England",
+            "club": "Liverpool",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Max Reuben Woltman",
+            "nationality": "England",
+            "club": "Liverpool",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "D. Corness",
+            "nationality": "England",
+            "club": "Liverpool",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Isaac Mabaya",
+            "nationality": "England",
+            "club": "Liverpool",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Mateusz Konrad Musiałowski",
+            "nationality": "Poland",
+            "club": "Liverpool",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Kaide Gordon",
+            "nationality": "England",
+            "club": "Liverpool",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Fabian Mrozek",
+            "nationality": "Poland",
+            "club": "Liverpool",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Rabiot",
+            "nationality": "France",
+            "club": "AC Milan",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Y. Adli",
+            "nationality": "France",
+            "club": "AC Milan",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Saelemaekers",
+            "nationality": "Belgium",
+            "club": "AC Milan",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Brescianini",
+            "nationality": "Italy",
+            "club": "AC Milan",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Maignan",
+            "nationality": "France",
+            "club": "AC Milan",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "Rafael Leão",
+            "nationality": "Portugal",
+            "club": "AC Milan",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "P. Terracciano",
+            "nationality": "Italy",
+            "club": "AC Milan",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Gabbia",
+            "nationality": "Italy",
+            "club": "AC Milan",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "P. Kalulu",
+            "nationality": "France",
+            "club": "AC Milan",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "L. Abanda",
+            "nationality": "France",
+            "club": "AC Milan",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "C. Traorè",
+            "nationality": "Côte d'Ivoire",
+            "club": "AC Milan",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "S. Signorile",
+            "nationality": "Italy",
+            "club": "AC Milan",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "C. Foglio",
+            "nationality": "Italy",
+            "club": "AC Milan",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Gala",
+            "nationality": "Italy",
+            "club": "AC Milan",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Coubiș",
+            "nationality": "Romania",
+            "club": "AC Milan",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Y. El Hilali",
+            "nationality": "Italy",
+            "club": "AC Milan",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "J. Šimić",
+            "nationality": "Serbia",
+            "club": "AC Milan",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "D. Bartesaghi",
+            "nationality": "Italy",
+            "club": "AC Milan",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Bakoune",
+            "nationality": "Italy",
+            "club": "AC Milan",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "F. Mangiameli",
+            "nationality": "Italy",
+            "club": "AC Milan",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Mirante",
+            "nationality": "Italy",
+            "club": "AC Milan",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Conti",
+            "nationality": "Italy",
+            "club": "AC Milan",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Romagnoli",
+            "nationality": "Italy",
+            "club": "AC Milan",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Luan Capanni",
+            "nationality": "Brazil",
+            "club": "AC Milan",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "C. Tătărușanu",
+            "nationality": "Romania",
+            "club": "AC Milan",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "T. Pobega",
+            "nationality": "Italy",
+            "club": "AC Milan",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Junior Messias",
+            "nationality": "Brazil",
+            "club": "AC Milan",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. El Hilali",
+            "nationality": "Italy",
+            "club": "AC Milan",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "D. Maldini",
+            "nationality": "Italy",
+            "club": "AC Milan",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "E. Roback",
+            "nationality": "Sweden",
+            "club": "AC Milan",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "C. De Ketelaere",
+            "nationality": "Belgium",
+            "club": "AC Milan",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "N. Michelis",
+            "nationality": "Greece",
+            "club": "AC Milan",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "L. Colombo",
+            "nationality": "Italy",
+            "club": "AC Milan",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "F. Terracciano",
+            "nationality": "Italy",
+            "club": "AC Milan",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "L. Stanga",
+            "nationality": "Italy",
+            "club": "AC Milan",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Jungdal",
+            "nationality": "Denmark",
+            "club": "AC Milan",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Frigerio",
+            "nationality": "Italy",
+            "club": "AC Milan",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "E. Di Gesù",
+            "nationality": "Italy",
+            "club": "AC Milan",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "G. Robotti",
+            "nationality": "Italy",
+            "club": "AC Milan",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "L. Nava",
+            "nationality": "Italy",
+            "club": "AC Milan",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "P. Pellegri",
+            "nationality": "Italy",
+            "club": "AC Milan",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Florenzi",
+            "nationality": "Italy",
+            "club": "AC Milan",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Plizzari",
+            "nationality": "Italy",
+            "club": "AC Milan",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "D. Calabria",
+            "nationality": "Italy",
+            "club": "AC Milan",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Caldara",
+            "nationality": "Italy",
+            "club": "AC Milan",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Samu Castillejo",
+            "nationality": "Spain",
+            "club": "AC Milan",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "F. Tsadjout",
+            "nationality": "Italy",
+            "club": "AC Milan",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Rebić",
+            "nationality": "Croatia",
+            "club": "AC Milan",
+            "position": "Forward",
+            "source": "API 2022"
+        },
+        {
+            "name": "Léo Duarte",
+            "nationality": "Brazil",
+            "club": "AC Milan",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "R. Krunić",
+            "nationality": "Bosnia and Herzegovina",
+            "club": "AC Milan",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "T. Hernández",
+            "nationality": "France",
+            "club": "AC Milan",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "D. Vásquez",
+            "nationality": "Colombia",
+            "club": "AC Milan",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Vranckx",
+            "nationality": "Belgium",
+            "club": "AC Milan",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Mionić",
+            "nationality": "Croatia",
+            "club": "AC Milan",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Lazetić",
+            "nationality": "Serbia",
+            "club": "AC Milan",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Thiaw",
+            "nationality": "Germany",
+            "club": "AC Milan",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "S. Desplanches",
+            "nationality": "Italy",
+            "club": "AC Milan",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Bozzolan",
+            "nationality": "Italy",
+            "club": "AC Milan",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Arthur",
+            "nationality": "Brazil",
+            "club": "Juventus",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. de Ligt",
+            "nationality": "Netherlands",
+            "club": "Juventus",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Perin",
+            "nationality": "Italy",
+            "club": "Juventus",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "C. Pinsoglio",
+            "nationality": "Italy",
+            "club": "Juventus",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "D. Rugani",
+            "nationality": "Italy",
+            "club": "Juventus",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Kean",
+            "nationality": "Italy",
+            "club": "Juventus",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "D. Zakaria",
+            "nationality": "Switzerland",
+            "club": "Juventus",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "D. Vlahović",
+            "nationality": "Serbia",
+            "club": "Juventus",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Locatelli",
+            "nationality": "Italy",
+            "club": "Juventus",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "J. Cabal",
+            "nationality": "Colombia",
+            "club": "Juventus",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Cambiaso",
+            "nationality": "Italy",
+            "club": "Juventus",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "F. Miretti",
+            "nationality": "Italy",
+            "club": "Juventus",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "F. Gatti",
+            "nationality": "Italy",
+            "club": "Juventus",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Soulé",
+            "nationality": "Argentina",
+            "club": "Juventus",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "S. Scaglia",
+            "nationality": "Italy",
+            "club": "Juventus",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "J. Rouhi",
+            "nationality": "Sweden",
+            "club": "Juventus",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Besaggio",
+            "nationality": "Italy",
+            "club": "Juventus",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "S. Mbangula",
+            "nationality": "Belgium",
+            "club": "Juventus",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "J. Vinarčík",
+            "nationality": "Slovakia",
+            "club": "Juventus",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Ihattaren",
+            "nationality": "Netherlands",
+            "club": "Juventus",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "G. Chiellini",
+            "nationality": "Italy",
+            "club": "Juventus",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "G. Kastanos",
+            "nationality": "Cyprus",
+            "club": "Juventus",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "F. Bernardeschi",
+            "nationality": "Italy",
+            "club": "Juventus",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "P. Dybala",
+            "nationality": "Argentina",
+            "club": "Juventus",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "N. Fagioli",
+            "nationality": "Italy",
+            "club": "Juventus",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "H. Nicolussi",
+            "nationality": "Italy",
+            "club": "Juventus",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "S. Gori",
+            "nationality": "Italy",
+            "club": "Juventus",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "N. Rovella",
+            "nationality": "Italy",
+            "club": "Juventus",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Sersanti",
+            "nationality": "Italy",
+            "club": "Juventus",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "F. Israel",
+            "nationality": "Uruguay",
+            "club": "Juventus",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Olivieri",
+            "nationality": "Italy",
+            "club": "Juventus",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "T. Barbieri",
+            "nationality": "Italy",
+            "club": "Juventus",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Aké",
+            "nationality": "France",
+            "club": "Juventus",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Raina",
+            "nationality": "Italy",
+            "club": "Juventus",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "N. Sekulov",
+            "nationality": "Italy",
+            "club": "Juventus",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "K. De Winter",
+            "nationality": "Belgium",
+            "club": "Juventus",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Compagnon",
+            "nationality": "Italy",
+            "club": "Juventus",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Z. Senkó",
+            "nationality": "Hungary",
+            "club": "Juventus",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Citi",
+            "nationality": "Italy",
+            "club": "Juventus",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "L. Paredes",
+            "nationality": "Argentina",
+            "club": "Juventus",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. De Sciglio",
+            "nationality": "Italy",
+            "club": "Juventus",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Alex Sandro",
+            "nationality": "Brazil",
+            "club": "Juventus",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "F. Kostić",
+            "nationality": "Serbia",
+            "club": "Juventus",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Kaio Jorge",
+            "nationality": "Brazil",
+            "club": "Juventus",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Pjaca",
+            "nationality": "Croatia",
+            "club": "Juventus",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Bremer",
+            "nationality": "Brazil",
+            "club": "Juventus",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "L. Pellegrini",
+            "nationality": "Italy",
+            "club": "Juventus",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Félix Correia",
+            "nationality": "Portugal",
+            "club": "Juventus",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "G. Crespi",
+            "nationality": "Italy",
+            "club": "Juventus",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Da Graca",
+            "nationality": "Italy",
+            "club": "Juventus",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "G. Garofani",
+            "nationality": "Italy",
+            "club": "Juventus",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Riccio",
+            "nationality": "Italy",
+            "club": "Juventus",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "E. Zuelli",
+            "nationality": "Italy",
+            "club": "Juventus",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "N. Cudrig",
+            "nationality": "Italy",
+            "club": "Juventus",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Palumbo",
+            "nationality": "Norway",
+            "club": "Juventus",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Hajdari",
+            "nationality": "Switzerland",
+            "club": "Juventus",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "D. Stramaccioni",
+            "nationality": "Italy",
+            "club": "Juventus",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "L. Cerri",
+            "nationality": "Italy",
+            "club": "Juventus",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "J. Nonge Boende",
+            "nationality": "Belgium",
+            "club": "Juventus",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "S. de Vrij",
+            "nationality": "Netherlands",
+            "club": "Inter",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "F. Colidio",
+            "nationality": "Argentina",
+            "club": "Inter",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "S. Esposito",
+            "nationality": "Italy",
+            "club": "Inter",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "D. Dumfries",
+            "nationality": "Netherlands",
+            "club": "Inter",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "P. Zieliński",
+            "nationality": "Poland",
+            "club": "Inter",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "R. Lukaku",
+            "nationality": "Belgium",
+            "club": "Inter",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "F. Acerbi",
+            "nationality": "Italy",
+            "club": "Inter",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "N. Barella",
+            "nationality": "Italy",
+            "club": "Inter",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Bastoni",
+            "nationality": "Italy",
+            "club": "Inter",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "F. Dimarco",
+            "nationality": "Italy",
+            "club": "Inter",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "R. Bellanova",
+            "nationality": "Italy",
+            "club": "Inter",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "N. Iliev",
+            "nationality": "Bulgaria",
+            "club": "Inter",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "C. Dimarco",
+            "nationality": "Italy",
+            "club": "Inter",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Pelamatti",
+            "nationality": "Russia",
+            "club": "Inter",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Tommaso Guercio",
+            "nationality": "Poland",
+            "club": "Inter",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "S. Andersen",
+            "nationality": "Denmark",
+            "club": "Inter",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Jan Żuberek",
+            "nationality": "Poland",
+            "club": "Inter",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "I. Kamate",
+            "nationality": "France",
+            "club": "Inter",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "N. Biral",
+            "nationality": "Italy",
+            "club": "Inter",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Stefano Di Pentima",
+            "nationality": "Italy",
+            "club": "Inter",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "S. Handanovič",
+            "nationality": "Slovenia",
+            "club": "Inter",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "R. Gagliardini",
+            "nationality": "Italy",
+            "club": "Inter",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Vecino",
+            "nationality": "Uruguay",
+            "club": "Inter",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Lautaro Martínez",
+            "nationality": "Argentina",
+            "club": "Inter",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "E. Salcedo",
+            "nationality": "Italy",
+            "club": "Inter",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Z. Vanheusden",
+            "nationality": "Belgium",
+            "club": "Inter",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Cordaz",
+            "nationality": "Italy",
+            "club": "Inter",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Pinamonti",
+            "nationality": "Italy",
+            "club": "Inter",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "G. Oristanio",
+            "nationality": "Italy",
+            "club": "Inter",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "F. Cortinovis",
+            "nationality": "Italy",
+            "club": "Inter",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "K. Asllani",
+            "nationality": "Albania",
+            "club": "Inter",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Zanotti",
+            "nationality": "Italy",
+            "club": "Inter",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "G. Fabbian",
+            "nationality": "Italy",
+            "club": "Inter",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Sangalli",
+            "nationality": "Italy",
+            "club": "Inter",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "W. Rovida",
+            "nationality": "Italy",
+            "club": "Inter",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Fontanarosa",
+            "nationality": "Italy",
+            "club": "Inter",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "D. Curatolo",
+            "nationality": "Italy",
+            "club": "Inter",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "V. Carboni",
+            "nationality": "Argentina",
+            "club": "Inter",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Silvestro",
+            "nationality": "Italy",
+            "club": "Inter",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "E. Akinsanmiro",
+            "nationality": "Nigeria",
+            "club": "Inter",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Dalbert Henrique",
+            "nationality": "Brazil",
+            "club": "Inter",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "D. D&apos;Ambrosio",
+            "nationality": "Italy",
+            "club": "Inter",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Škriniar",
+            "nationality": "Slovakia",
+            "club": "Inter",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Brozović",
+            "nationality": "Croatia",
+            "club": "Inter",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "H. Çalhanoğlu",
+            "nationality": "Türkiye",
+            "club": "Inter",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "J. Correa",
+            "nationality": "Argentina",
+            "club": "Inter",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "B. Pavard",
+            "nationality": "France",
+            "club": "Inter",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Y. Sommer",
+            "nationality": "Switzerland",
+            "club": "Inter",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "L. Agoumé",
+            "nationality": "France",
+            "club": "Inter",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "R. Gosens",
+            "nationality": "Germany",
+            "club": "Inter",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "S. Sensi",
+            "nationality": "Italy",
+            "club": "Inter",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Gabriel Brazão",
+            "nationality": "Brazil",
+            "club": "Inter",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Hoti",
+            "nationality": "Kosovo",
+            "club": "Inter",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "L. Pirola",
+            "nationality": "Italy",
+            "club": "Inter",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "T. Persyn",
+            "nationality": "Belgium",
+            "club": "Inter",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "E. Sottini",
+            "nationality": "Italy",
+            "club": "Inter",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Satriano",
+            "nationality": "Uruguay",
+            "club": "Inter",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "F. Carboni",
+            "nationality": "Argentina",
+            "club": "Inter",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Stanković",
+            "nationality": "Serbia",
+            "club": "Inter",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "N. Botis",
+            "nationality": "Greece",
+            "club": "Inter",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "Raphaël Guerreiro",
+            "nationality": "Portugal",
+            "club": "Bayern München",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Neuer",
+            "nationality": "Germany",
+            "club": "Bayern München",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "S. Ulreich",
+            "nationality": "Germany",
+            "club": "Bayern München",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "N. Süle",
+            "nationality": "Germany",
+            "club": "Bayern München",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Davies",
+            "nationality": "Canada",
+            "club": "Bayern München",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "D. Upamecano",
+            "nationality": "France",
+            "club": "Bayern München",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "K. Laimer",
+            "nationality": "Austria",
+            "club": "Bayern München",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Cuisance",
+            "nationality": "France",
+            "club": "Bayern München",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "H. Ito",
+            "nationality": "Japan",
+            "club": "Bayern München",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "J. Stanišić",
+            "nationality": "Croatia",
+            "club": "Bayern München",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Tillman",
+            "nationality": "USA",
+            "club": "Bayern München",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "D. Herold",
+            "nationality": "Germany",
+            "club": "Bayern München",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "G. Marušić",
+            "nationality": "Croatia",
+            "club": "Bayern München",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "L. Copado",
+            "nationality": "Germany",
+            "club": "Bayern München",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Ibrahimović",
+            "nationality": "Germany",
+            "club": "Bayern München",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Pavlović",
+            "nationality": "Germany",
+            "club": "Bayern München",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "L. Morrison",
+            "nationality": "Scotland",
+            "club": "Bayern München",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "T. Buchmann",
+            "nationality": "Germany",
+            "club": "Bayern München",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "B. Mendy",
+            "nationality": "France",
+            "club": "Manchester City",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "O. Zinchenko",
+            "nationality": "Ukraine",
+            "club": "Manchester City",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Gabriel Jesus",
+            "nationality": "Brazil",
+            "club": "Manchester City",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "João Cancelo",
+            "nationality": "Portugal",
+            "club": "Manchester City",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Pablo Moreno",
+            "nationality": "Spain",
+            "club": "Manchester City",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Y. Herrera",
+            "nationality": "Venezuela",
+            "club": "Manchester City",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "S. Ortega",
+            "nationality": "Germany",
+            "club": "Manchester City",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Moreno",
+            "nationality": "Colombia",
+            "club": "Manchester City",
+            "position": "Forward",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Smith",
+            "nationality": "Wales",
+            "club": "Manchester City",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "K. Itakura",
+            "nationality": "Japan",
+            "club": "Manchester City",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Rowan McDonald",
+            "nationality": "England",
+            "club": "Manchester City",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "L. Fiorini",
+            "nationality": "Scotland",
+            "club": "Manchester City",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "C. Palmer",
+            "nationality": "England",
+            "club": "Manchester City",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "F. Burns",
+            "nationality": "England",
+            "club": "Manchester City",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Diego Rosa",
+            "nationality": "Brazil",
+            "club": "Manchester City",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Oscar Bobb",
+            "nationality": "Norway",
+            "club": "Manchester City",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Mikki Avelon Leander van Sas",
+            "nationality": "Netherlands",
+            "club": "Manchester City",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "Isaac Smith",
+            "nationality": "England",
+            "club": "Manchester City",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "William Dickson",
+            "nationality": "England",
+            "club": "Manchester City",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "L. Samuel",
+            "nationality": "England",
+            "club": "Manchester City",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Akanji",
+            "nationality": "Switzerland",
+            "club": "Manchester City",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Rodri",
+            "nationality": "Spain",
+            "club": "Manchester City",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Rúben Dias",
+            "nationality": "Portugal",
+            "club": "Manchester City",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "J. Stones",
+            "nationality": "England",
+            "club": "Manchester City",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "P. Foden",
+            "nationality": "England",
+            "club": "Manchester City",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "İ. Gündoğan",
+            "nationality": "Germany",
+            "club": "Manchester City",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Bernardo Silva",
+            "nationality": "Portugal",
+            "club": "Manchester City",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "E. Haaland",
+            "nationality": "Norway",
+            "club": "Manchester City",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "N. Aké",
+            "nationality": "Netherlands",
+            "club": "Manchester City",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "K. Phillips",
+            "nationality": "England",
+            "club": "Manchester City",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "J. Grealish",
+            "nationality": "England",
+            "club": "Manchester City",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "R. Aït-Nouri",
+            "nationality": "Algeria",
+            "club": "Manchester City",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Matheus Nunes",
+            "nationality": "Portugal",
+            "club": "Manchester City",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "J. McAtee",
+            "nationality": "England",
+            "club": "Manchester City",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "L. Delap",
+            "nationality": "England",
+            "club": "Manchester City",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "J. Trafford",
+            "nationality": "England",
+            "club": "Manchester City",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "J. Wilson-Esbrand",
+            "nationality": "England",
+            "club": "Manchester City",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "R. Lavia",
+            "nationality": "Belgium",
+            "club": "Manchester City",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "R. Lewis",
+            "nationality": "England",
+            "club": "Manchester City",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "N. O&apos;Reilly",
+            "nationality": "England",
+            "club": "Manchester City",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Sergio Gómez",
+            "nationality": "Spain",
+            "club": "Manchester City",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Murić",
+            "nationality": "Kosovo",
+            "club": "Manchester City",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "Aymeric Laporte",
+            "nationality": "Spain",
+            "club": "Manchester City",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "K. Walker",
+            "nationality": "England",
+            "club": "Manchester City",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "R. Sterling",
+            "nationality": "England",
+            "club": "Manchester City",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "J. Álvarez",
+            "nationality": "Argentina",
+            "club": "Manchester City",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Rogers",
+            "nationality": "England",
+            "club": "Manchester City",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "S. Tedić",
+            "nationality": "Serbia",
+            "club": "Manchester City",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "P. Roberts",
+            "nationality": "England",
+            "club": "Manchester City",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "B. Knight",
+            "nationality": "England",
+            "club": "Manchester City",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "C. Slicker",
+            "nationality": "Scotland",
+            "club": "Manchester City",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "Yan Couto",
+            "nationality": "Brazil",
+            "club": "Manchester City",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "S. Edozie",
+            "nationality": "England",
+            "club": "Manchester City",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "L. Mbete",
+            "nationality": "England",
+            "club": "Manchester City",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "S. Charles",
+            "nationality": "Northern Ireland",
+            "club": "Manchester City",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Max Alleyne",
+            "nationality": "England",
+            "club": "Manchester City",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Jadel Katongo",
+            "nationality": "England",
+            "club": "Manchester City",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Kayky",
+            "nationality": "Brazil",
+            "club": "Manchester City",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Tomas Galvez",
+            "nationality": "Finland",
+            "club": "Manchester City",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "C. Dagba",
+            "nationality": "France",
+            "club": "Paris Saint Germain",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Verratti",
+            "nationality": "Italy",
+            "club": "Paris Saint Germain",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Letellier",
+            "nationality": "France",
+            "club": "Paris Saint Germain",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "J. Dina Ebimbe",
+            "nationality": "France",
+            "club": "Paris Saint Germain",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Kalimuendo",
+            "nationality": "France",
+            "club": "Paris Saint Germain",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "T. Alloh",
+            "nationality": "France",
+            "club": "Paris Saint Germain",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "G. Innocent",
+            "nationality": "Haiti",
+            "club": "Paris Saint Germain",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "N. Bitumazala",
+            "nationality": "France",
+            "club": "Paris Saint Germain",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "S. Yansané",
+            "nationality": "France",
+            "club": "Paris Saint Germain",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Kari",
+            "nationality": "France",
+            "club": "Paris Saint Germain",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Y. El Hannach",
+            "nationality": "France",
+            "club": "Paris Saint Germain",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Vimoj Muntu Wa Mungu",
+            "nationality": "France",
+            "club": "Paris Saint Germain",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "K. Najeh",
+            "nationality": "France",
+            "club": "Paris Saint Germain",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "H. Lamy",
+            "nationality": "France",
+            "club": "Paris Saint Germain",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "I. Housni",
+            "nationality": "France",
+            "club": "Paris Saint Germain",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "E. Mbappé",
+            "nationality": "France",
+            "club": "Paris Saint Germain",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "R. Etonde",
+            "nationality": "France",
+            "club": "Paris Saint Germain",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Erwan Adonis",
+            "nationality": "France",
+            "club": "Paris Saint Germain",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Serif Nhaga",
+            "nationality": "Portugal",
+            "club": "Paris Saint Germain",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Rafinha",
+            "nationality": "Brazil",
+            "club": "Paris Saint Germain",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "L. Messi",
+            "nationality": "Argentina",
+            "club": "Paris Saint Germain",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Icardi",
+            "nationality": "Argentina",
+            "club": "Paris Saint Germain",
+            "position": "Forward",
+            "source": "API 2022"
+        },
+        {
+            "name": "P. Kimpembe",
+            "nationality": "France",
+            "club": "Paris Saint Germain",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Kylian Mbappé",
+            "nationality": "France",
+            "club": "Paris Saint Germain",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Fabián Ruiz",
+            "nationality": "Spain",
+            "club": "Paris Saint Germain",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Danilo Pereira",
+            "nationality": "Portugal",
+            "club": "Paris Saint Germain",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Sergio Ramos",
+            "nationality": "Spain",
+            "club": "Paris Saint Germain",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "B. Barcola",
+            "nationality": "France",
+            "club": "Paris Saint Germain",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "B. Fadiga",
+            "nationality": "France",
+            "club": "Paris Saint Germain",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "T. Baldé",
+            "nationality": "France",
+            "club": "Paris Saint Germain",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "K. Nagera",
+            "nationality": "France",
+            "club": "Paris Saint Germain",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "L. Chevalier",
+            "nationality": "France",
+            "club": "Paris Saint Germain",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "L. Lavallée",
+            "nationality": "France",
+            "club": "Paris Saint Germain",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "Nuno Mendes",
+            "nationality": "Portugal",
+            "club": "Paris Saint Germain",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "É. Michut",
+            "nationality": "France",
+            "club": "Paris Saint Germain",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "N. Fernandez-Veliz",
+            "nationality": "France",
+            "club": "Paris Saint Germain",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "D. Weidmann",
+            "nationality": "France",
+            "club": "Paris Saint Germain",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "W. Zaïre-Emery",
+            "nationality": "France",
+            "club": "Paris Saint Germain",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "D. Doué",
+            "nationality": "France",
+            "club": "Paris Saint Germain",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Hakimi",
+            "nationality": "Morocco",
+            "club": "Paris Saint Germain",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Marquinhos",
+            "nationality": "Brazil",
+            "club": "Paris Saint Germain",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Juan Bernat",
+            "nationality": "Spain",
+            "club": "Paris Saint Germain",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "L. Kurzawa",
+            "nationality": "France",
+            "club": "Paris Saint Germain",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Á. Di María",
+            "nationality": "Argentina",
+            "club": "Paris Saint Germain",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "J. Draxler",
+            "nationality": "Germany",
+            "club": "Paris Saint Germain",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Neymar",
+            "nationality": "Brazil",
+            "club": "Paris Saint Germain",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "K. Navas",
+            "nationality": "Costa Rica",
+            "club": "Paris Saint Germain",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "N. Mukiele",
+            "nationality": "France",
+            "club": "Paris Saint Germain",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "G. Donnarumma",
+            "nationality": "Italy",
+            "club": "Paris Saint Germain",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "I. Gueye",
+            "nationality": "Senegal",
+            "club": "Paris Saint Germain",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "R. Kolo Muani",
+            "nationality": "France",
+            "club": "Paris Saint Germain",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "X. Simons",
+            "nationality": "Netherlands",
+            "club": "Paris Saint Germain",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "T. Pembélé",
+            "nationality": "France",
+            "club": "Paris Saint Germain",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "D. Franchi",
+            "nationality": "Italy",
+            "club": "Paris Saint Germain",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "H. Ekitike",
+            "nationality": "France",
+            "club": "Paris Saint Germain",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "E. Bitshiabu",
+            "nationality": "France",
+            "club": "Paris Saint Germain",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Ismaël Gharbi",
+            "nationality": "Spain",
+            "club": "Paris Saint Germain",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "D. Gassama",
+            "nationality": "France",
+            "club": "Paris Saint Germain",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Wolf",
+            "nationality": "Germany",
+            "club": "Borussia Dortmund",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "F. Passlack",
+            "nationality": "Germany",
+            "club": "Borussia Dortmund",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "J. Ryerson",
+            "nationality": "Norway",
+            "club": "Borussia Dortmund",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "K. Finnsson",
+            "nationality": "Iceland",
+            "club": "Borussia Dortmund",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "J. Bellingham",
+            "nationality": "England",
+            "club": "Borussia Dortmund",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "J. Braaf",
+            "nationality": "Netherlands",
+            "club": "Borussia Dortmund",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "B. Fink",
+            "nationality": "Switzerland",
+            "club": "Borussia Dortmund",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "G. Reyna",
+            "nationality": "USA",
+            "club": "Borussia Dortmund",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Knauff",
+            "nationality": "Germany",
+            "club": "Borussia Dortmund",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Kamara",
+            "nationality": "Guinea",
+            "club": "Borussia Dortmund",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Aussi",
+            "nationality": "Ukraine",
+            "club": "Borussia Dortmund",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "N. Collins",
+            "nationality": "Germany",
+            "club": "Borussia Dortmund",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "J. Bynoe-Gittens",
+            "nationality": "England",
+            "club": "Borussia Dortmund",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "T. Rothe",
+            "nationality": "Germany",
+            "club": "Borussia Dortmund",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "N. Simić",
+            "nationality": "Croatia",
+            "club": "Borussia Dortmund",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Ludwig",
+            "nationality": "Germany",
+            "club": "Borussia Dortmund",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Julian Dean Rijkhoff",
+            "nationality": "Netherlands",
+            "club": "Borussia Dortmund",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "P. Aning",
+            "nationality": "Netherlands",
+            "club": "Borussia Dortmund",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "D. Zagadou",
+            "nationality": "France",
+            "club": "Borussia Dortmund",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "J. Brandt",
+            "nationality": "Germany",
+            "club": "Borussia Dortmund",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "K. Adeyemi",
+            "nationality": "Germany",
+            "club": "Borussia Dortmund",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "S. Guirassy",
+            "nationality": "Guinea",
+            "club": "Borussia Dortmund",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "S. Özcan",
+            "nationality": "Türkiye",
+            "club": "Borussia Dortmund",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "L. Maloney",
+            "nationality": "USA",
+            "club": "Borussia Dortmund",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "D. Ramaj",
+            "nationality": "Germany",
+            "club": "Borussia Dortmund",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "G. Kobel",
+            "nationality": "Switzerland",
+            "club": "Borussia Dortmund",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "W. Anton",
+            "nationality": "Germany",
+            "club": "Borussia Dortmund",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Broschinski",
+            "nationality": "Germany",
+            "club": "Borussia Dortmund",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "N. Schlotterbeck",
+            "nationality": "Germany",
+            "club": "Borussia Dortmund",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Meyer",
+            "nationality": "Germany",
+            "club": "Borussia Dortmund",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "T. Raschl",
+            "nationality": "Germany",
+            "club": "Borussia Dortmund",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "I. Pherai",
+            "nationality": "Netherlands",
+            "club": "Borussia Dortmund",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "S. Drljača",
+            "nationality": "Germany",
+            "club": "Borussia Dortmund",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "F. Michel",
+            "nationality": "Germany",
+            "club": "Borussia Dortmund",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "S. Bamba",
+            "nationality": "Germany",
+            "club": "Borussia Dortmund",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "S. Ostrzinski",
+            "nationality": "Germany",
+            "club": "Borussia Dortmund",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "J. Duranville",
+            "nationality": "Belgium",
+            "club": "Borussia Dortmund",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "L. Unbehaun",
+            "nationality": "Germany",
+            "club": "Borussia Dortmund",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "Marcel Schmelzer",
+            "nationality": "Germany",
+            "club": "Borussia Dortmund",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Witsel",
+            "nationality": "Belgium",
+            "club": "Borussia Dortmund",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "T. Meunier",
+            "nationality": "Belgium",
+            "club": "Borussia Dortmund",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "N. Schulz",
+            "nationality": "Germany",
+            "club": "Borussia Dortmund",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "B. Taz",
+            "nationality": "Germany",
+            "club": "Borussia Dortmund",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "C. Özkan",
+            "nationality": "Germany",
+            "club": "Borussia Dortmund",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "F. Pfanne",
+            "nationality": "Germany",
+            "club": "Borussia Dortmund",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "S. Tigges",
+            "nationality": "Germany",
+            "club": "Borussia Dortmund",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Eberwein",
+            "nationality": "Germany",
+            "club": "Borussia Dortmund",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Hober",
+            "nationality": "Germany",
+            "club": "Borussia Dortmund",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Mateu Morey",
+            "nationality": "Spain",
+            "club": "Borussia Dortmund",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "L. Semić",
+            "nationality": "Germany",
+            "club": "Borussia Dortmund",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Y. Moukoko",
+            "nationality": "Germany",
+            "club": "Borussia Dortmund",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Lotka",
+            "nationality": "Poland",
+            "club": "Borussia Dortmund",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "S. Coulibaly",
+            "nationality": "France",
+            "club": "Borussia Dortmund",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Šuver",
+            "nationality": "Croatia",
+            "club": "Borussia Dortmund",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "J. Njinmah",
+            "nationality": "Germany",
+            "club": "Borussia Dortmund",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Pašalić",
+            "nationality": "Croatia",
+            "club": "Borussia Dortmund",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Guille Bueno",
+            "nationality": "Spain",
+            "club": "Borussia Dortmund",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "K. Pierie",
+            "nationality": "Netherlands",
+            "club": "Ajax",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "S. Klaiber",
+            "nationality": "Suriname",
+            "club": "Ajax",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "J. Gorter",
+            "nationality": "Netherlands",
+            "club": "Ajax",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "T. Douglas",
+            "nationality": "Netherlands",
+            "club": "Ajax",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "N. Musampa",
+            "nationality": "Netherlands",
+            "club": "Ajax",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "L. van Gelderen",
+            "nationality": "Netherlands",
+            "club": "Ajax",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "V. Jensen",
+            "nationality": "Denmark",
+            "club": "Ajax",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "H. Bandé",
+            "nationality": "Burkina Faso",
+            "club": "Ajax",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "C. Raatsie",
+            "nationality": "Netherlands",
+            "club": "Ajax",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. de Waal",
+            "nationality": "Netherlands",
+            "club": "Ajax",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "D. Warmerdam",
+            "nationality": "Netherlands",
+            "club": "Ajax",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. van Axel Dongen",
+            "nationality": "Netherlands",
+            "club": "Ajax",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "O. Aertssen",
+            "nationality": "Netherlands",
+            "club": "Ajax",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "E. Dall",
+            "nationality": "Denmark",
+            "club": "Ajax",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "T. Gooijer",
+            "nationality": "Netherlands",
+            "club": "Ajax",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Milovanović",
+            "nationality": "Serbia",
+            "club": "Ajax",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "G. Misehouy",
+            "nationality": "Netherlands",
+            "club": "Ajax",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "S. Kremers",
+            "nationality": "Netherlands",
+            "club": "Ajax",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "T. de Graaff",
+            "nationality": "Netherlands",
+            "club": "Ajax",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "N. Tagliafico",
+            "nationality": "Argentina",
+            "club": "Ajax",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Danilo",
+            "nationality": "Brazil",
+            "club": "Ajax",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Daramy",
+            "nationality": "Denmark",
+            "club": "Ajax",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "J. Sánchez",
+            "nationality": "Mexico",
+            "club": "Ajax",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "O. Wijndal",
+            "nationality": "Netherlands",
+            "club": "Ajax",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "K. Fitz-Jim",
+            "nationality": "Netherlands",
+            "club": "Ajax",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "R. Pasveer",
+            "nationality": "Netherlands",
+            "club": "Ajax",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "E. Llansana",
+            "nationality": "Netherlands",
+            "club": "Ajax",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "K. Taylor",
+            "nationality": "Netherlands",
+            "club": "Ajax",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "G. Rulli",
+            "nationality": "Argentina",
+            "club": "Ajax",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "Y. Regeer",
+            "nationality": "Netherlands",
+            "club": "Ajax",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "N. Ünüvar",
+            "nationality": "Türkiye",
+            "club": "Ajax",
+            "position": "Forward",
+            "source": "API 2022"
+        },
+        {
+            "name": "K. Hlynsson",
+            "nationality": "Iceland",
+            "club": "Ajax",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "P. Delgado",
+            "nationality": "Ecuador",
+            "club": "Ajax",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "J. Kjær",
+            "nationality": "Denmark",
+            "club": "Ajax",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Kaplan",
+            "nationality": "Türkiye",
+            "club": "Ajax",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Y. Baas",
+            "nationality": "Netherlands",
+            "club": "Ajax",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "C. Setford",
+            "nationality": "England",
+            "club": "Ajax",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "J. Brandes",
+            "nationality": "Netherlands",
+            "club": "Ajax",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Godts",
+            "nationality": "Belgium",
+            "club": "Ajax",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "L. Magallán",
+            "nationality": "Argentina",
+            "club": "Ajax",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "P. Schuurs",
+            "nationality": "Netherlands",
+            "club": "Ajax",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Z. Labyad",
+            "nationality": "Morocco",
+            "club": "Ajax",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "David Neres",
+            "nationality": "Brazil",
+            "club": "Ajax",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "F. Grillitsch",
+            "nationality": "Austria",
+            "club": "Ajax",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "L. Ocampos",
+            "nationality": "Argentina",
+            "club": "Ajax",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "J. Timber",
+            "nationality": "Netherlands",
+            "club": "Ajax",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "P. Tytoń",
+            "nationality": "Poland",
+            "club": "Ajax",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "Francisco Conceição",
+            "nationality": "Portugal",
+            "club": "Ajax",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "S. Hansen",
+            "nationality": "Netherlands",
+            "club": "Ajax",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "C. Rasmussen",
+            "nationality": "Denmark",
+            "club": "Ajax",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Martha",
+            "nationality": "Netherlands",
+            "club": "Ajax",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Salah-Eddine",
+            "nationality": "Morocco",
+            "club": "Ajax",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "D. Rensch",
+            "nationality": "Netherlands",
+            "club": "Ajax",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "L. Lucca",
+            "nationality": "Italy",
+            "club": "Ajax",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Giovanni Manson",
+            "nationality": "Brazil",
+            "club": "Ajax",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "S. Vos",
+            "nationality": "Netherlands",
+            "club": "Ajax",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "T. Setford",
+            "nationality": "England",
+            "club": "Ajax",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "J. Enem",
+            "nationality": "Netherlands",
+            "club": "Ajax",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "B. Davies",
+            "nationality": "Wales",
+            "club": "Tottenham",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "H. Kane",
+            "nationality": "England",
+            "club": "Tottenham",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "T. Ndombélé",
+            "nationality": "France",
+            "club": "Tottenham",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "R. Bentancur",
+            "nationality": "Uruguay",
+            "club": "Tottenham",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Bryan Gil",
+            "nationality": "Spain",
+            "club": "Tottenham",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Richarlison",
+            "nationality": "Brazil",
+            "club": "Tottenham",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Y. Bissouma",
+            "nationality": "Mali",
+            "club": "Tottenham",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "R. Sessegnon",
+            "nationality": "England",
+            "club": "Tottenham",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "D. Spence",
+            "nationality": "England",
+            "club": "Tottenham",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "D. Kulusevski",
+            "nationality": "Sweden",
+            "club": "Tottenham",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "C. Romero",
+            "nationality": "Argentina",
+            "club": "Tottenham",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Pedro Porro",
+            "nationality": "Spain",
+            "club": "Tottenham",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Brooklyn Lyons-Foster",
+            "nationality": "England",
+            "club": "Tottenham",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "B. Austin",
+            "nationality": "England",
+            "club": "Tottenham",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "D. Scarlett",
+            "nationality": "England",
+            "club": "Tottenham",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "D. Udogie",
+            "nationality": "Italy",
+            "club": "Tottenham",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "P. Sarr",
+            "nationality": "Senegal",
+            "club": "Tottenham",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "R. Mundle",
+            "nationality": "England",
+            "club": "Tottenham",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Craig",
+            "nationality": "Scotland",
+            "club": "Tottenham",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Joshua Keeley",
+            "nationality": "Republic of Ireland",
+            "club": "Tottenham",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Danjuma",
+            "nationality": "Netherlands",
+            "club": "Tottenham",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Lucas Moura",
+            "nationality": "Brazil",
+            "club": "Tottenham",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Reguilón",
+            "nationality": "Spain",
+            "club": "Tottenham",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Doherty",
+            "nationality": "Republic of Ireland",
+            "club": "Tottenham",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "J. Rodon",
+            "nationality": "Wales",
+            "club": "Tottenham",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Lavinier",
+            "nationality": "England",
+            "club": "Tottenham",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "D. Markanday",
+            "nationality": "England",
+            "club": "Tottenham",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "J. Tanganga",
+            "nationality": "England",
+            "club": "Tottenham",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "T. Parrott",
+            "nationality": "Republic of Ireland",
+            "club": "Tottenham",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Robson",
+            "nationality": "England",
+            "club": "Tottenham",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "N. John",
+            "nationality": "England",
+            "club": "Tottenham",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Muir",
+            "nationality": "England",
+            "club": "Tottenham",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Devine",
+            "nationality": "England",
+            "club": "Tottenham",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Yago Alonso",
+            "nationality": "Spain",
+            "club": "Tottenham",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "K. Cesay",
+            "nationality": "Sierra Leone",
+            "club": "Tottenham",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "J. Donley",
+            "nationality": "England",
+            "club": "Tottenham",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "C. Sayers",
+            "nationality": "England",
+            "club": "Tottenham",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "G. Abbott",
+            "nationality": "England",
+            "club": "Tottenham",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "W. Lankshear",
+            "nationality": "England",
+            "club": "Tottenham",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "H. Lloris",
+            "nationality": "France",
+            "club": "Tottenham",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Whiteman",
+            "nationality": "England",
+            "club": "Tottenham",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "D. Sánchez",
+            "nationality": "Colombia",
+            "club": "Tottenham",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "E. Dier",
+            "nationality": "England",
+            "club": "Tottenham",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "O. Skipp",
+            "nationality": "England",
+            "club": "Tottenham",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "H. Winks",
+            "nationality": "England",
+            "club": "Tottenham",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Son Heung-Min",
+            "nationality": "Korea Republic",
+            "club": "Tottenham",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "I. Perišić",
+            "nationality": "Croatia",
+            "club": "Tottenham",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "S. Bergwijn",
+            "nationality": "Netherlands",
+            "club": "Tottenham",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "G. Lo Celso",
+            "nationality": "Argentina",
+            "club": "Tottenham",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "P. Højbjerg",
+            "nationality": "Denmark",
+            "club": "Tottenham",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "F. Forster",
+            "nationality": "England",
+            "club": "Tottenham",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "P. Gollini",
+            "nationality": "Italy",
+            "club": "Tottenham",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Paskotši",
+            "nationality": "Estonia",
+            "club": "Tottenham",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "H. White",
+            "nationality": "England",
+            "club": "Tottenham",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "T. Omole",
+            "nationality": "England",
+            "club": "Tottenham",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Jamie Patrick Bowden",
+            "nationality": "Republic of Ireland",
+            "club": "Tottenham",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Fagan-Walcott",
+            "nationality": "England",
+            "club": "Tottenham",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Dorrington",
+            "nationality": "England",
+            "club": "Tottenham",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "S. Diop",
+            "nationality": "France",
+            "club": "Monaco",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Gelson Martins",
+            "nationality": "Portugal",
+            "club": "Monaco",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "T. Didillon",
+            "nationality": "France",
+            "club": "Monaco",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "W. Ben Yedder",
+            "nationality": "France",
+            "club": "Monaco",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Pelé",
+            "nationality": "Guinea-Bissau",
+            "club": "Monaco",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Camara",
+            "nationality": "Mali",
+            "club": "Monaco",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "R. Aguilar",
+            "nationality": "France",
+            "club": "Monaco",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Sarr",
+            "nationality": "France",
+            "club": "Monaco",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "L. Torres",
+            "nationality": "France",
+            "club": "Monaco",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "E. Ayiah",
+            "nationality": "Ghana",
+            "club": "Monaco",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Fouad El Maach",
+            "nationality": "Morocco",
+            "club": "Monaco",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Tiago Ribeiro",
+            "nationality": "Portugal",
+            "club": "Monaco",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "F. Baranik",
+            "nationality": "France",
+            "club": "Monaco",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Valentin Salatiel Decarpentrie",
+            "nationality": "France",
+            "club": "Monaco",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Zadi",
+            "nationality": "France",
+            "club": "Monaco",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Bamba",
+            "nationality": "France",
+            "club": "Monaco",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Platret",
+            "nationality": "France",
+            "club": "Monaco",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "N. Babaï",
+            "nationality": "Algeria",
+            "club": "Monaco",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Malamine Efekele",
+            "nationality": "France",
+            "club": "Monaco",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "K. Diatta",
+            "nationality": "Senegal",
+            "club": "Monaco",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Golovin",
+            "nationality": "Russia",
+            "club": "Monaco",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "W. Geubbels",
+            "nationality": "France",
+            "club": "Monaco",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "G. Maripán",
+            "nationality": "Chile",
+            "club": "Monaco",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Jean Lucas",
+            "nationality": "Brazil",
+            "club": "Monaco",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Caio Henrique",
+            "nationality": "Brazil",
+            "club": "Monaco",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "J. Marcelin",
+            "nationality": "France",
+            "club": "Monaco",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Y. Fofana",
+            "nationality": "France",
+            "club": "Monaco",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Musaba",
+            "nationality": "Netherlands",
+            "club": "Monaco",
+            "position": "Forward",
+            "source": "API 2022"
+        },
+        {
+            "name": "R. Majecki",
+            "nationality": "Poland",
+            "club": "Monaco",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "S. Pavlović",
+            "nationality": "Serbia",
+            "club": "Monaco",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "E. Matazo",
+            "nationality": "Belgium",
+            "club": "Monaco",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "C. Matsima",
+            "nationality": "France",
+            "club": "Monaco",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Y. Lienard",
+            "nationality": "France",
+            "club": "Monaco",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "Y. Okou",
+            "nationality": "France",
+            "club": "Monaco",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Akliouche",
+            "nationality": "France",
+            "club": "Monaco",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Vanderson",
+            "nationality": "Brazil",
+            "club": "Monaco",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "F. Lemaréchal",
+            "nationality": "France",
+            "club": "Monaco",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "E. Diop",
+            "nationality": "France",
+            "club": "Monaco",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Coulibaly",
+            "nationality": "France",
+            "club": "Monaco",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "B. Badiashile",
+            "nationality": "France",
+            "club": "Monaco",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "D. Sidibé",
+            "nationality": "France",
+            "club": "Monaco",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Nübel",
+            "nationality": "Germany",
+            "club": "Monaco",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "B. Embolo",
+            "nationality": "Switzerland",
+            "club": "Monaco",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "K. Volland",
+            "nationality": "Germany",
+            "club": "Monaco",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "T. Minamino",
+            "nationality": "Japan",
+            "club": "Monaco",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Barreca",
+            "nationality": "Italy",
+            "club": "Monaco",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "B. Lecomte",
+            "nationality": "France",
+            "club": "Monaco",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Disasi",
+            "nationality": "France",
+            "club": "Monaco",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Boadu",
+            "nationality": "Netherlands",
+            "club": "Monaco",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "V. Mannone",
+            "nationality": "Italy",
+            "club": "Monaco",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "W. Isidor",
+            "nationality": "France",
+            "club": "Monaco",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "F. Balogun",
+            "nationality": "USA",
+            "club": "Monaco",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "I. Jakobs",
+            "nationality": "Senegal",
+            "club": "Monaco",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "S. Magassa",
+            "nationality": "France",
+            "club": "Monaco",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "E. Ben Seghir",
+            "nationality": "Morocco",
+            "club": "Monaco",
+            "position": "Forward",
+            "source": "API 2022"
+        },
+        {
+            "name": "Diogo Costa",
+            "nationality": "Portugal",
+            "club": "FC Porto",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "Bruno Costa",
+            "nationality": "Portugal",
+            "club": "FC Porto",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Fernando Andrade",
+            "nationality": "Brazil",
+            "club": "FC Porto",
+            "position": "Forward",
+            "source": "API 2022"
+        },
+        {
+            "name": "J. Corona",
+            "nationality": "Mexico",
+            "club": "FC Porto",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "S. Eustáquio",
+            "nationality": "Canada",
+            "club": "FC Porto",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Rúben Semedo",
+            "nationality": "Portugal",
+            "club": "FC Porto",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Galeno",
+            "nationality": "Brazil",
+            "club": "FC Porto",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Fábio Cardoso",
+            "nationality": "Portugal",
+            "club": "FC Porto",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Nanu",
+            "nationality": "Guinea-Bissau",
+            "club": "FC Porto",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Carraça",
+            "nationality": "Portugal",
+            "club": "FC Porto",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Cláudio Ramos",
+            "nationality": "Portugal",
+            "club": "FC Porto",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "Francisco Meixedo",
+            "nationality": "Portugal",
+            "club": "FC Porto",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "Romain Correia",
+            "nationality": "Portugal",
+            "club": "FC Porto",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Z. Sanusi",
+            "nationality": "Nigeria",
+            "club": "FC Porto",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Gonçalo Borges",
+            "nationality": "Portugal",
+            "club": "FC Porto",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "André Franco",
+            "nationality": "Portugal",
+            "club": "FC Porto",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Bernardo Folha",
+            "nationality": "Portugal",
+            "club": "FC Porto",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "João Mendes",
+            "nationality": "Portugal",
+            "club": "FC Porto",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Marcus",
+            "nationality": "Nigeria",
+            "club": "FC Porto",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Vasco Sousa",
+            "nationality": "Portugal",
+            "club": "FC Porto",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "C. Ngonge",
+            "nationality": "Belgium",
+            "club": "Napoli",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Politano",
+            "nationality": "Italy",
+            "club": "Napoli",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Meret",
+            "nationality": "Italy",
+            "club": "Napoli",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "G. Gaetano",
+            "nationality": "Italy",
+            "club": "Napoli",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "N. Lang",
+            "nationality": "Netherlands",
+            "club": "Napoli",
+            "position": "Forward",
+            "source": "API 2022"
+        },
+        {
+            "name": "L. Spinazzola",
+            "nationality": "Italy",
+            "club": "Napoli",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Amir Rrahmani",
+            "nationality": "Kosovo",
+            "club": "Napoli",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "G. Simeone",
+            "nationality": "Argentina",
+            "club": "Napoli",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "G. Di Lorenzo",
+            "nationality": "Italy",
+            "club": "Napoli",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Zerbin",
+            "nationality": "Italy",
+            "club": "Napoli",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "P. Mazzocchi",
+            "nationality": "Italy",
+            "club": "Napoli",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Olivera",
+            "nationality": "Uruguay",
+            "club": "Napoli",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "S. Lobotka",
+            "nationality": "Slovakia",
+            "club": "Napoli",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Zanoli",
+            "nationality": "Italy",
+            "club": "Napoli",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "V. Boffelli",
+            "nationality": "Italy",
+            "club": "Napoli",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "G. Ambrosino",
+            "nationality": "Italy",
+            "club": "Napoli",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "B. Barba",
+            "nationality": "Italy",
+            "club": "Napoli",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "H. Lozano",
+            "nationality": "Mexico",
+            "club": "Napoli",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Mário Rui",
+            "nationality": "Portugal",
+            "club": "Napoli",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "K. Zedadka",
+            "nationality": "France",
+            "club": "Napoli",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Ounas",
+            "nationality": "Algeria",
+            "club": "Napoli",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "K. Kvaratskhelia",
+            "nationality": "Georgia",
+            "club": "Napoli",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Juan Jesus",
+            "nationality": "Brazil",
+            "club": "Napoli",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "D. Demme",
+            "nationality": "Germany",
+            "club": "Napoli",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "E. Elmas",
+            "nationality": "North Macedonia",
+            "club": "Napoli",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "V. Osimhen",
+            "nationality": "Nigeria",
+            "club": "Napoli",
+            "position": "Forward",
+            "source": "API 2022"
+        },
+        {
+            "name": "B. Bereszyński",
+            "nationality": "Poland",
+            "club": "Napoli",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Zambo Anguissa",
+            "nationality": "Cameroon",
+            "club": "Napoli",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "J. Lindstrøm",
+            "nationality": "Denmark",
+            "club": "Napoli",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "L. Østigård",
+            "nationality": "Norway",
+            "club": "Napoli",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "G. Raspadori",
+            "nationality": "Italy",
+            "club": "Napoli",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Petagna",
+            "nationality": "Italy",
+            "club": "Napoli",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "L. Palmiero",
+            "nationality": "Italy",
+            "club": "Napoli",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "D. Marfella",
+            "nationality": "Italy",
+            "club": "Napoli",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "H. Idasiak",
+            "nationality": "Poland",
+            "club": "Napoli",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "D. Costanzo",
+            "nationality": "Italy",
+            "club": "Napoli",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Kim Min-Jae",
+            "nationality": "Korea Republic",
+            "club": "Napoli",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "S. Sirigu",
+            "nationality": "Italy",
+            "club": "Napoli",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "N. Gudelj",
+            "nationality": "Serbia",
+            "club": "Sevilla",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. El Haddadi",
+            "nationality": "Morocco",
+            "club": "Sevilla",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Adrià Pedrosa",
+            "nationality": "Spain",
+            "club": "Sevilla",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Joan Jordán",
+            "nationality": "Spain",
+            "club": "Sevilla",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Pedro Ortiz",
+            "nationality": "Spain",
+            "club": "Sevilla",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Nacho Quintana",
+            "nationality": "Spain",
+            "club": "Sevilla",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Xavi Sintes",
+            "nationality": "Spain",
+            "club": "Sevilla",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Alfonso Pastor",
+            "nationality": "Spain",
+            "club": "Sevilla",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Herzig",
+            "nationality": "Germany",
+            "club": "Sevilla",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "Carlos Álvarez",
+            "nationality": "Spain",
+            "club": "Sevilla",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Juanlu Sánchez",
+            "nationality": "Spain",
+            "club": "Sevilla",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Luismi Cruz",
+            "nationality": "Spain",
+            "club": "Sevilla",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Iván Romero",
+            "nationality": "Spain",
+            "club": "Sevilla",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "José Ángel Carmona",
+            "nationality": "Spain",
+            "club": "Sevilla",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Antonio Zarzana",
+            "nationality": "Spain",
+            "club": "Sevilla",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Pablo Pérez",
+            "nationality": "Spain",
+            "club": "Sevilla",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Lulo Dasilva",
+            "nationality": "Spain",
+            "club": "Sevilla",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Matías Árbol",
+            "nationality": "Spain",
+            "club": "Sevilla",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "Manu Bueno",
+            "nationality": "Spain",
+            "club": "Sevilla",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Diego Hormigo",
+            "nationality": "Spain",
+            "club": "Sevilla",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "T. Delaney",
+            "nationality": "Denmark",
+            "club": "Sevilla",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "I. Rakitić",
+            "nationality": "Croatia",
+            "club": "Sevilla",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Óliver Torres",
+            "nationality": "Spain",
+            "club": "Sevilla",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Marcão",
+            "nationality": "Brazil",
+            "club": "Sevilla",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "K. Dolberg",
+            "nationality": "Denmark",
+            "club": "Sevilla",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Acuña",
+            "nationality": "Argentina",
+            "club": "Sevilla",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Y. Bounou",
+            "nationality": "Morocco",
+            "club": "Sevilla",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "O. Idrissi",
+            "nationality": "Morocco",
+            "club": "Sevilla",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Dmitrović",
+            "nationality": "Serbia",
+            "club": "Sevilla",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "P. Gueye",
+            "nationality": "Senegal",
+            "club": "Sevilla",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "P. Gómez",
+            "nationality": "Argentina",
+            "club": "Sevilla",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Y. En-Nesyri",
+            "nationality": "Morocco",
+            "club": "Sevilla",
+            "position": "Forward",
+            "source": "API 2022"
+        },
+        {
+            "name": "R. Johansson",
+            "nationality": "Republic of Ireland",
+            "club": "Sevilla",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "T. Nianzou",
+            "nationality": "France",
+            "club": "Sevilla",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Kike Salas",
+            "nationality": "Spain",
+            "club": "Sevilla",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Alberto Flores",
+            "nationality": "Spain",
+            "club": "Sevilla",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "Rony Lopes",
+            "nationality": "Portugal",
+            "club": "Sevilla",
+            "position": "Forward",
+            "source": "API 2022"
+        },
+        {
+            "name": "E. Lamela",
+            "nationality": "Argentina",
+            "club": "Sevilla",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Fernando",
+            "nationality": "Brazil",
+            "club": "Sevilla",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Suso",
+            "nationality": "Spain",
+            "club": "Sevilla",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Jesús Navas",
+            "nationality": "Spain",
+            "club": "Sevilla",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "G. Montiel",
+            "nationality": "Argentina",
+            "club": "Sevilla",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Januzaj",
+            "nationality": "Belgium",
+            "club": "Sevilla",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "K. Rekik",
+            "nationality": "Netherlands",
+            "club": "Sevilla",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Rafa Mir",
+            "nationality": "Spain",
+            "club": "Sevilla",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "L. Badé",
+            "nationality": "France",
+            "club": "Sevilla",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Jaume Doménech",
+            "nationality": "Spain",
+            "club": "Valencia",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "D. Cheryshev",
+            "nationality": "Russia",
+            "club": "Valencia",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Gómez",
+            "nationality": "Uruguay",
+            "club": "Valencia",
+            "position": "Forward",
+            "source": "API 2022"
+        },
+        {
+            "name": "Manu Vallejo",
+            "nationality": "Spain",
+            "club": "Valencia",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Iago Herrerín",
+            "nationality": "Spain",
+            "club": "Valencia",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "Álex Blanco",
+            "nationality": "Spain",
+            "club": "Valencia",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Jason",
+            "nationality": "Spain",
+            "club": "Valencia",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Marcos André",
+            "nationality": "Brazil",
+            "club": "Valencia",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Pedro Alemañ",
+            "nationality": "Spain",
+            "club": "Valencia",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Hugo González",
+            "nationality": "Spain",
+            "club": "Valencia",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Charlie Pérez",
+            "nationality": "Spain",
+            "club": "Valencia",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "Joseda",
+            "nationality": "Spain",
+            "club": "Valencia",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Fran Pérez",
+            "nationality": "Spain",
+            "club": "Valencia",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Vicente Esquerdo",
+            "nationality": "Spain",
+            "club": "Valencia",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Emilio Bernad",
+            "nationality": "Spain",
+            "club": "Valencia",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "L. Sangaré",
+            "nationality": "Côte d'Ivoire",
+            "club": "Valencia",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Burlamaqui",
+            "nationality": "Peru",
+            "club": "Valencia",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Mario Domínguez",
+            "nationality": "Spain",
+            "club": "Valencia",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "J. Cillessen",
+            "nationality": "Netherlands",
+            "club": "Valencia",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "Cristian Rivero",
+            "nationality": "Spain",
+            "club": "Valencia",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Diakhaby",
+            "nationality": "Guinea",
+            "club": "Valencia",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "José Gayà",
+            "nationality": "Spain",
+            "club": "Valencia",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Hugo Guillamón",
+            "nationality": "Spain",
+            "club": "Valencia",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Toni Lato",
+            "nationality": "Spain",
+            "club": "Valencia",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "D. Wass",
+            "nationality": "Denmark",
+            "club": "Valencia",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Thierry Correia",
+            "nationality": "Portugal",
+            "club": "Valencia",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "André Almeida",
+            "nationality": "Portugal",
+            "club": "Valencia",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Hugo Duro",
+            "nationality": "Spain",
+            "club": "Valencia",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "S. Dimitrievski",
+            "nationality": "North Macedonia",
+            "club": "Valencia",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "E. Cömert",
+            "nationality": "Switzerland",
+            "club": "Valencia",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "K. Koindredi",
+            "nationality": "France",
+            "club": "Valencia",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Diego López",
+            "nationality": "Spain",
+            "club": "Valencia",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Jesús Vázquez",
+            "nationality": "Spain",
+            "club": "Valencia",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Facundo González",
+            "nationality": "Uruguay",
+            "club": "Valencia",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Alberto Marí",
+            "nationality": "Spain",
+            "club": "Valencia",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Javi Guerra",
+            "nationality": "Spain",
+            "club": "Valencia",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Rubo Iranzo",
+            "nationality": "Spain",
+            "club": "Valencia",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "César Tárrega",
+            "nationality": "Spain",
+            "club": "Valencia",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "E. Cavani",
+            "nationality": "Uruguay",
+            "club": "Valencia",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "J. Kluivert",
+            "nationality": "Netherlands",
+            "club": "Valencia",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Gabriel Paulista",
+            "nationality": "Brazil",
+            "club": "Valencia",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "C. Piccini",
+            "nationality": "Italy",
+            "club": "Valencia",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Gonçalo Guedes",
+            "nationality": "Portugal",
+            "club": "Valencia",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "Carlos Soler",
+            "nationality": "Spain",
+            "club": "Valencia",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "O. Alderete",
+            "nationality": "Paraguay",
+            "club": "Valencia",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Hélder Costa",
+            "nationality": "Angola",
+            "club": "Valencia",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "G. Mamardashvili",
+            "nationality": "Georgia",
+            "club": "Valencia",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "U. Račić",
+            "nationality": "Serbia",
+            "club": "Valencia",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "D. Foulquier",
+            "nationality": "Guadeloupe",
+            "club": "Valencia",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "C. Özkacar",
+            "nationality": "Türkiye",
+            "club": "Valencia",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Samuel Lino",
+            "nationality": "Brazil",
+            "club": "Valencia",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Y. Musah",
+            "nationality": "USA",
+            "club": "Valencia",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "I. Moriba",
+            "nationality": "Guinea",
+            "club": "Valencia",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Cristhian Mosquera",
+            "nationality": "Spain",
+            "club": "Valencia",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Jesús Santiago",
+            "nationality": "Spain",
+            "club": "Valencia",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "Ismaily",
+            "nationality": "Brazil",
+            "club": "Lille",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Gomes",
+            "nationality": "England",
+            "club": "Lille",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "B. André",
+            "nationality": "France",
+            "club": "Lille",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "J. David",
+            "nationality": "Canada",
+            "club": "Lille",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Zedadka",
+            "nationality": "Algeria",
+            "club": "Lille",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Jakubech",
+            "nationality": "Slovakia",
+            "club": "Lille",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "J. Bamba",
+            "nationality": "Côte d'Ivoire",
+            "club": "Lille",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "J. Martin",
+            "nationality": "France",
+            "club": "Lille",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "E. Zhegrova",
+            "nationality": "Kosovo",
+            "club": "Lille",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Ousmane",
+            "nationality": "Mauritania",
+            "club": "Lille",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "Alexsandro Ribeiro",
+            "nationality": "Brazil",
+            "club": "Lille",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "S. Ramet",
+            "nationality": "France",
+            "club": "Lille",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "A. Virginius",
+            "nationality": "France",
+            "club": "Lille",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "T. Negrel",
+            "nationality": "France",
+            "club": "Lille",
+            "position": "حارس مرمى",
+            "source": "API 2022"
+        },
+        {
+            "name": "J. Bazié",
+            "nationality": "Burkina Faso",
+            "club": "Lille",
+            "position": "مهاجم",
+            "source": "API 2022"
+        },
+        {
+            "name": "U. Raghouber",
+            "nationality": "France",
+            "club": "Lille",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "M. Makhabe",
+            "nationality": "France",
+            "club": "Lille",
+            "position": "خط وسط",
+            "source": "API 2022"
+        },
+        {
+            "name": "V. Burlet",
+            "nationality": "Belgium",
+            "club": "Lille",
+            "position": "مدافع",
+            "source": "API 2022"
+        },
+        {
+            "name": "I. Ferrah",
+            "nationality": "France",
+            "club": "Lille",
+            "position": "خط وسط",
+            "source": "API 2022"
+        }
+    ]
 }
