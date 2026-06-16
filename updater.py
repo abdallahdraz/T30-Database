@@ -2,50 +2,63 @@ import os
 import json
 import requests
 
-print("🤖 الروبوت بدأ العمل: جاري جلب التحديثات من API-Football...")
+print("🤖 بدأت أتمتة الروبوت: جاري فحص التحديثات وربط داتا كأس العالم...")
 
-# قراءة المفتاح السري من GitHub Secrets
 API_KEY = os.environ.get("API_FOOTBALL_KEY")
 headers = {
-    "x-rapidapi-host": "v3.football.api-sports.io",
-    "x-rapidapi-key": API_KEY
+    "x-apisports-key": API_KEY
 }
 
-# قراءة الداتابيز الحالية
 db_path = 'Tahadi_ULTIMATE_DB.json'
-with open(db_path, 'r', encoding='utf-8') as f:
-    db = json.load(f)
 
-# ---------------------------------------------------------
-# مثال لتحديث حقيقي: سحب أحدث الانتقالات (Transfers)
-# ---------------------------------------------------------
-# سحب أحدث الانتقالات من الـ API (كمثال مبدئي لتجربة الربط)
+# فتح الداتابيز المدمجة بحذر
 try:
-    response = requests.get("https://v3.football.api-sports.io/transfers/latest", headers=headers)
-    data = response.json()
-    
-    if "response" in data and len(data["response"]) > 0:
-        latest_transfers = data["response"][:5] # نأخذ أحدث 5 انتقالات
-        for transfer_data in latest_transfers:
-            player_name = transfer_data.get('player', {}).get('name', 'لاعب غير معروف')
-            transfers_list = transfer_data.get('transfers', [])
-            
-            if transfers_list:
-                latest_move = transfers_list[0]
-                team_in = latest_move.get('teams', {}).get('in', {}).get('name')
-                team_out = latest_move.get('teams', {}).get('out', {}).get('name')
-                
-                # إضافة سؤال جديد لفقرة سين جيم
-                new_q = f"انتقل اللاعب {player_name} حديثاً من نادي {team_out} إلى نادي {team_in}. (تحديث تلقائي)"
-                # نتأكد إن السؤال مش مكرر
-                if not any(item['q'] == new_q for item in db['seen_jeem']):
-                    db['seen_jeem'].append({"q": new_q, "a": player_name})
-                    print(f"✅ تمت إضافة انتقال جديد: {player_name} إلى {team_in}")
+    with open(db_path, 'r', encoding='utf-8') as f:
+        db = json.load(f)
+except FileNotFoundError:
+    db = {"seen_jeem": [], "wc_2026_players": []}
 
-    # حفظ الداتابيز بعد التحديث
+# التأكد من وجود الأقسام الجديدة عشان السكريبت ما يضرب
+if 'seen_jeem' not in db:
+    db['seen_jeem'] = []
+if 'wc_2026_players' not in db:
+    db['wc_2026_players'] = []
+
+try:
+    # جلب أحدث الانتقالات العالمية للحفاظ على ديناميكية الأسئلة
+    response = requests.get("https://v3.football.api-sports.io/transfers/latest", headers=headers)
+    
+    if response.status_code == 200:
+        data = response.json()
+        if "response" in data and len(data["response"]) > 0:
+            latest_transfers = data["response"][:10]
+            
+            for transfer_data in latest_transfers:
+                player_name = transfer_data.get('player', {}).get('name', '').strip()
+                transfers_list = transfer_data.get('transfers', [])
+                
+                if player_name and transfers_list:
+                    latest_move = transfers_list[0]
+                    team_in = latest_move.get('teams', {}).get('in', {}).get('name')
+                    team_out = latest_move.get('teams', {}).get('out', {}).get('name')
+                    
+                    new_q = f"انتقل اللاعب {player_name} حديثاً من نادي {team_out} إلى نادي {team_in}. (تحديث تلقائي)"
+                    
+                    # الفحص ومنع التكرار
+                    if not any(item['q'] == new_q for item in db['seen_jeem']):
+                        db['seen_jeem'].append({"q": new_q, "a": player_name})
+                        print(f"🔥 تم رصد انتقال حي وتحديثه: {player_name}")
+                        
+                        # تحديث ناديه الحالي في قائمة كأس العالم لو كان موجوداً هناك
+                        for p in db['wc_2026_players']:
+                            if p['name'] == player_name:
+                                p['club'] = team_in
+                                print(f"🔄 تم تحديث نادي اللاعب {player_name} في قائمة كأس العالم إلى {team_in}")
+
+    # حفظ الملف النهائي مع الحفاظ على الترتيب والترميز العربي
     with open(db_path, 'w', encoding='utf-8') as f:
         json.dump(db, f, ensure_ascii=False, indent=4)
-    print("💾 تم حفظ التحديثات بنجاح!")
+    print("💾 تم حفظ ومزامنة الداتابيز بنجاح على السيرفر!")
 
 except Exception as e:
-    print(f"❌ حدث خطأ أثناء جلب البيانات: {e}")
+    print(f"❌ حدث خطأ غير متوقع أثناء المعالجة: {e}")
