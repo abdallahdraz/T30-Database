@@ -1,0 +1,37 @@
+name: Daily Football Trivia Updater
+
+on:
+  schedule:
+    # يعمل كل يوم الساعة 00:00 بتوقيت UTC (الساعة 3 فجراً بتوقيت الأردن)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # هذا السطر بيسمحلك تشغل الروبوت يدوياً بأي وقت بضغطة زر!
+
+jobs:
+  update-database:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # السماح للروبوت بتعديل الملفات
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: pip install requests
+
+      - name: Run Updater Script
+        env:
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+        run: python updater.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name 'GitHub Action Bot'
+          git config --global user.email 'action@github.com'
+          git add Tahadi_ULTIMATE_DB.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "تحديث يومي تلقائي للداتابيز 🔄" && git push)
