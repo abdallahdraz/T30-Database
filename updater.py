@@ -175,7 +175,7 @@ try:
             red_cards_list = []
             if match_data.get('events'):
                 for event in match_data['events']:
-                    time_str = f"{event['time']['elapsed']}{f'+{event['time']['extra']}' if event['time']['extra'] else ''}'"
+                    time_str = f"{event['time']['elapsed']}+{event['time']['extra']}'" if event['time']['extra'] else f"{event['time']['elapsed']}'"
                     if event['type'] == 'Goal' and event['detail'] != 'Missed Penalty':
                         scorer = event['player']['name'] or "مجهول"
                         assist = event['assist']['name']
