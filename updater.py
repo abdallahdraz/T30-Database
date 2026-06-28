@@ -9,7 +9,7 @@ print("🤖 بدأت أتمتة الروبوت الشاملة (نسخة الإض
 # ==========================================
 # 1. إعدادات الاتصال 
 # ==========================================
-API_KEY = os.environ.get("API_FOOTBALL_KEY", "0d64b954ec966706bf8bd7a71f69ef3d")
+API_KEY = os.environ.get("API_FOOTBALL_KEY")
 HEADERS = {
     "x-apisports-key": API_KEY,
     "x-apisports-host": "v3.football.api-sports.io"
